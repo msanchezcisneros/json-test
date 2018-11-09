@@ -1,0 +1,16 @@
+{
+   "to":"QCSMyIxGu289VKxQ67",
+   "priority":"high",
+   "notification":{
+      "body":"Actualización",
+      "title":"NetcarTV"
+   },
+   "data":{
+      "action":"update",
+      "badge":0,
+      "sound":"default",
+      "aps":{
+         "action":"update"
+      }
+   }
+}
